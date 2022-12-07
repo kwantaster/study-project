@@ -1,3 +1,3 @@
 # study-project
 first step
-action 1
+to do action 1
